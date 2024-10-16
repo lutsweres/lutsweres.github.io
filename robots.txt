@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lutsweres.github.io/sitemap.html.gz
+Sitemap: https://lutsweres.github.io/app/sitemap.html.gz
+Sitemap: https://lutsweres.github.io/assets/sitemap.html.gz
+Sitemap: https://lutsweres.github.io/css/sitemap.html.gz
+Sitemap: https://lutsweres.github.io/includes/sitemap.html.gz
+Sitemap: https://lutsweres.github.io/item/sitemap.html.gz
+Sitemap: https://lutsweres.github.io/src/sitemap.html.gz
